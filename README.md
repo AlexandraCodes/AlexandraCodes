@@ -2,6 +2,10 @@
 
 <h3 align="center"> Frontend ReactJS developer and C Programming student</h3>
 
+- 🌱 I’m currently learning **C programming**
+
+- 🔭 I’m currently working on a [room booking site](https://newyorkcityresidence.com/)
+
 - 📫 Reach me at LexCodesCode@gmail.com
 
 <!--
