@@ -2,16 +2,6 @@
 
 <h3 align="center"> Frontend ReactJS developer and C Programming student</h3>
 
-- 🔭 I’m currently working on -- *insert link to personal proj*
-
-- 🌱 I’m currently learning C programming -- *insert link to proj desc*
-
-- 👩‍💻 All my projects are available at [insert portfolio here]()
-
-- 🐒 Follow me [@Lex_Codes](https://www.instagram.com/lex_codes/)
-
-- 📝 Read my thoughts [@LexCodesCode](https://twitter.com/LexCodesCode)
-
 - 📫 Reach me at LexCodesCode@gmail.com
 
 <!--
@@ -30,4 +20,15 @@ Here are some ideas to get you started:
 - 
 - 👩‍💻 All my projects are available at [insert portfolio here]()
 - 👸 Pronouns: she/her
+
+- 🔭 I’m currently working on -- *insert link to personal proj*
+
+- 🌱 I’m currently learning C programming -- *insert link to proj desc*
+
+- 👩‍💻 All my projects are available at [insert portfolio here]()
+
+- 🐒 Follow me [@Lex_Codes](https://www.instagram.com/lex_codes/)
+
+- 📝 Read my thoughts [@LexCodesCode](https://twitter.com/LexCodesCode)
+-
 -->
