@@ -12,7 +12,7 @@
 
 - 📝 Read my thoughts [@LexCodesCode](https://twitter.com/LexCodesCode)
 
-- 📫 Reach me at alexandra.lexis.castillo@gmail.com
+- 📫 Reach me at LexCodesCode@gmail.com
 
 <!--
 **AlexandraCodes/AlexandraCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
