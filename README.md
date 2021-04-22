@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C programming**
 
-- 🔭 I’m currently working on a [room booking site](https://newyorkcityresidence.com/)
+- 🔭 I’m currently working on a [room booking site](https://newyorkcityresidence.com/) in react and flask
 
 - 📫 Reach me at LexCodesCode@gmail.com
 
