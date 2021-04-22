@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 - 👩‍💻 All my projects are available at [insert portfolio here]()
 - 👸 Pronouns: she/her
 
+- This or That - 
+🇩🇴 🇺🇸 🇫🇷 -- Dominican American French
+🇫🇷 🇺🇸 🇩🇴 -- French American Dominican
+
 - 🔭 I’m currently working on -- *insert link to personal proj*
 
 - 🌱 I’m currently learning C programming -- *insert link to proj desc*
