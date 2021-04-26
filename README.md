@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C programming**
 
-- 🔭 I’m currently working on a [room booking site](https://newyorkcityresidence.com/) in react and flask
+- 🔭 I’m currently working on a **room booking** site in **react** and **flask**
 
 - 📫 Reach me at LexCodesCode@gmail.com
 
@@ -38,5 +38,8 @@ Here are some ideas to get you started:
 - 🐒 Follow me [@Lex_Codes](https://www.instagram.com/lex_codes/)
 
 - 📝 Read my thoughts [@LexCodesCode](https://twitter.com/LexCodesCode)
--
+
+- [room booking site](https://newyorkcityresidence.com/) 
+- 
+- 
 -->
