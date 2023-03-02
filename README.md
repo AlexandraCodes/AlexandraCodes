@@ -2,16 +2,16 @@
 
 <h3 align="center">but you can call me AL</h3>
 
-<h3 align="center"> Frontend ReactJS developer and C Programming student</h3>
-
 - 🌱 I’m currently working with **Django, ReactJS, TypeScript**
 
 - 🔭 I’m currently learning **C++**
 
-- 📫 Reach me at Alecasti.Codes@gmail.com
+- 📫 Reach me @  Alecasti.Codes@gmail.com
 
 <!--
 **AlexandraCodes/AlexandraCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 align="center"> Frontend ReactJS developer and C Programming student</h3>
 
 - 🌱 I’m currently learning **C programming**
 
