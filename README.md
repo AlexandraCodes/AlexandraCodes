@@ -1,12 +1,15 @@
 <h1 align="center">Hello 👋, I'm Alexandra<br/> 🇩🇴 🇺🇸 🇫🇷</h1>
 
-<h3 align="center">but you can call me AL</h3>
+<h3 align="center">bear with me while I rebuild</h3>
+<!--
+<h3 align="center">but you can call me AL</h3> 
+-->
 
 - 🌱 I’m currently working with **Go, ReactJS, TypeScript**
 
 - 🔭 I’m currently learning **C++**
 
-- 📫 Reach me @  AcastilloinNYC@gmail.com
+- 📫 Reach me @  acastilloinNYC@gmail.com
 
 <!--
 **AlexandraCodes/AlexandraCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
