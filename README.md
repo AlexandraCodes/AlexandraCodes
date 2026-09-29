@@ -5,7 +5,7 @@
 <h3 align="center">but you can call me AL</h3> 
 -->
 
-- 🌱 I’m currently working with **Go, ReactJS, TypeScript**
+- 🌱 I’m currently working with **Go, Python, TypeScript**
 
 - 🔭 I’m currently learning **C++**
 
