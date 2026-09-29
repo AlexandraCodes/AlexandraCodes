@@ -2,11 +2,11 @@
 
 <h3 align="center">but you can call me AL</h3>
 
-- 🌱 I’m currently working with **Django, ReactJS, TypeScript**
+- 🌱 I’m currently working with **Go, ReactJS, TypeScript**
 
 - 🔭 I’m currently learning **C++**
 
-- 📫 Reach me @  Alecasti.Codes@gmail.com
+- 📫 Reach me @  AcastilloinNYC@gmail.com
 
 <!--
 **AlexandraCodes/AlexandraCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
